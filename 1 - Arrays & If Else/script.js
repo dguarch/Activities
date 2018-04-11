@@ -51,4 +51,3 @@ switch (true) {
         console.log(`Tu numero es: ${num}\n<Por lo que es igual o mayor que ${rangoNum[3]}>`);
         break;
 }
-
